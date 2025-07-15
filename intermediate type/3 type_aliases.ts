@@ -1,4 +1,4 @@
-// using (type aliases) you can create custom type
+// using (type aliases) uisng union you can create custom type
 
 type custom = string | number | boolean;
 
